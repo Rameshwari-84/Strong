@@ -1,5 +1,5 @@
 package all_program;
-
+pratik
 public class AmstrongNumber 
 {
 	//using while loop
